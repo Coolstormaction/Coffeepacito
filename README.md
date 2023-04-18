@@ -2,6 +2,10 @@
 
 Coffepacito is a single player game. The main objective is to collect as many beans (seems sus) as you can! Well, you die if you get hit by enemies (get rekt nob). You collect coffee beans with a coffee cup (so you can consume caffeine duh). The enemies are Coke, Tea and Fire. Your beans gets ruined when hit by coke, the tea cup is of superior material and breaks your cup, and fire just burns your cup.
 
+## How to play
+
+Clone the github repo with `git clone https://github.com/Coolstormaction/Coffeepacito`, go inside the folder and run make in the terminal.
+
 ## Controls 
 
 Use arrow keys to move the cup around and collect beans by colliding with them. Try not to get hit the enemies 👿. If you get hit by an enemy, you lose and you have to close and close and open the game once again (yeah, that's how it is you lazy human)
