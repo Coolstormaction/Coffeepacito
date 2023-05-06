@@ -4,7 +4,7 @@ Coffepacito is a single player game. The main objective is to collect as many be
 
 ## How to play
 
-Clone the github repo with `git clone https://github.com/Coolstormaction/Coffeepacito`, go inside the folder and run make in the terminal.
+Clone the github repo with `git clone https://github.com/Coolstormaction/Coffeepacito`, go inside the folder and run make in the terminal. (make sure you have Makefile installed on your pc)
 For non-programmers, check out the itch page of coffeepacito to get instructions to download the exe
 https://debarka.itch.io/coffeepacito
 
